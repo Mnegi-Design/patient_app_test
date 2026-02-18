@@ -1,7 +1,7 @@
 import { Link, Route, Routes } from 'react-router-dom'
 import CreateProposalDefault from './pages/CreateProposalDefault'
 import CreateProposalManager from './pages/CreateProposalManager'
-import ProposalTable from './pages/ProposalTable'
+import ProposalTable from "./pages/ProposalTable"
 
 export default function App() {
   return (
